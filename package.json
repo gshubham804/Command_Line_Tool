@@ -1,0 +1,8 @@
+{
+  "name": "command_line_tool",
+  "version": "1.0.0",
+  "description": "Command Line tool for learning purpose",
+  "main": "src/index.js",
+  "author": "Shubham Gupta",
+  "license": "ISC"
+}
